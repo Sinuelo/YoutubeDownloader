@@ -2,11 +2,11 @@
 
 
 # :gear: Requisitos
-### customtkinter : biblioteca customizada do tkinter
-### pytube : biblioteca para download de vídeos do Youtube
-### PIL : biblioteca de processamento de imagens
-### requests: biblioteca HTTP
-#### As bibliotecas tkinter e io já vem no Python
+## customtkinter : biblioteca customizada do tkinter
+## pytube : biblioteca para download de vídeos do Youtube
+## PIL : biblioteca de processamento de imagens
+## requests: biblioteca HTTP
+### As bibliotecas tkinter e io já vem no Python
 
 
 
