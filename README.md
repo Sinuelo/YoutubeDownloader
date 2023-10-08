@@ -4,7 +4,7 @@
 # :gear: Requisitos
 ## [customtkinter](https://pypi.org/project/customtkinter/0.3/)
 
-## [pytube](https://pytube.io/en/latest/)biblioteca para download de vídeos do Youtube
+## [pytube](https://pytube.io/en/latest/) biblioteca para download de vídeos do Youtube
 
 ## [PIL](https://pillow.readthedocs.io/en/stable/) biblioteca de processamento de imagens
 
